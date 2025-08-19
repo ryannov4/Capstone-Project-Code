@@ -115,11 +115,9 @@ IBM Granite AI (diakses via Replicate) digunakan selama pengembangan untuk mengh
 o	Menghasilkan kode dasar HTML untuk struktur dashboard dan form transaksi.
 o	Membuat boilerplate JavaScript untuk logika CRUD dan inisialisasi Chart.js.
 o	Menyediakan template CSS awal untuk layout Grid dan Flexbox.
-
 •	Dampak Nyata:
 o	Efisiensi Waktu: Mempercepat pembuatan struktur awal.
 o	Struktur Awal yang Solid: Kode dasar dari AI memberikan fondasi yang terorganisir, memudahkan pengembangan fitur lanjutan seperti filtering dan analytics.
-
 •	Human Oversight: Semua kode dasar dari AI direview, dikustomisasi, dan dioptimalkan secara manual untuk memenuhi kebutuhan spesifik proyek, seperti validasi data, tema responsif, dan integrasi visualisasi Chart.js. Tes manual dilakukan untuk memastikan kompatibilitas dan performa.
-
 •	Catatan: AI hanya digunakan untuk menghasilkan kode dasar selama fase pengembangan dan tidak menjadi bagian dari produk akhir, sesuai brief proyek.
+
