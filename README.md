@@ -19,7 +19,7 @@ Aplikasi web CRUD untuk mencatat, mengelola, dan menganalisis keuangan personal.
 
 
 ## AI Support Explanation
-- **AI Role (IBM Granite): Membuat kode dasar untuk 4 modul (Dashboard, Transaction Management, Activity History, Analytics).
-- **Developer Role: Mengembangkan kode AI-generated dengan menambahkan styling (CSS), interaktivitas lanjutan (JavaScript), validasi data, sistem tema, dan optimisasi performa.
+AI Role (IBM Granite): Membuat kode dasar untuk 4 modul (Dashboard, Transaction Management, Activity History, Analytics).
+Developer Role: Mengembangkan kode AI-generated dengan menambahkan styling (CSS), interaktivitas lanjutan (JavaScript), validasi data, sistem tema, dan optimisasi performa.
 
 link websitenya https://lacak-pengeluaran.netlify.app/
