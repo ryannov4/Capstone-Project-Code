@@ -4,6 +4,7 @@ Description
 Personal Expense Tracker adalah aplikasi web intuitif untuk mengelola keuangan pribadi. Aplikasi ini memungkinkan pengguna mencatat, menganalisis, dan memantau pemasukan serta pengeluaran melalui antarmuka yang modern dan responsif. Dengan visualisasi data interaktif dan wawasan cerdas, aplikasi ini membantu pengguna memahami pola keuangan mereka secara efisien. Proyek ini dikembangkan dengan bantuan AI (IBM Granite via Replicate) untuk mempercepat pembuatan kode dasar, memastikan efisiensi dan struktur awal yang solid.
 
 Technologies Used
+
 •	HTML5: Struktur semantik untuk accessibility dan SEO.
 •	CSS3 (Grid & Flexbox): Layout responsif dengan animasi halus.
 •	JavaScript (ES6+): Logika aplikasi, termasuk CRUD dan filtering.
